@@ -1,2 +1,2 @@
 # unity-best-practices
-A repo used to provide a best practices wiki for Unity development.
+A repository to host information for Unity users including style guidelines, best practices, and helpful tips.
